@@ -1,0 +1,6 @@
+TaskGenerator.c:11:6:Task1	32	static
+TaskGenerator.c:33:6:Task2	32	static
+TaskGenerator.c:55:6:Task3	32	static
+TaskGenerator.c:77:6:Task1GeneratorCallback	32	static
+TaskGenerator.c:90:6:Task2GeneratorCallback	32	static
+TaskGenerator.c:103:6:Task3GeneratorCallback	32	static

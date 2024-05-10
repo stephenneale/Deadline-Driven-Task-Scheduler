@@ -1,0 +1,5 @@
+main.c:30:5:main	32	static
+main.c:64:6:set_test_bench	16	static
+main.c:93:6:vApplicationMallocFailedHook	4	static
+main.c:107:6:vApplicationStackOverflowHook	16	static
+main.c:121:6:vApplicationIdleHook	16	static
